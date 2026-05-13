@@ -8,7 +8,7 @@
 
 a)
 
-b) The shimmering blue liquid in a tiny glass vial.
+[b) The shimmering blue liquid in a tiny glass vial.](./option-b.md)
 
 c) 
 
