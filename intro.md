@@ -8,7 +8,7 @@
 
 a)
 
-b)
+b) The shimmering blue liquid in a tiny glass vial.
 
 c) 
 
