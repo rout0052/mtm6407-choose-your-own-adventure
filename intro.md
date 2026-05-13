@@ -6,7 +6,7 @@
 
 ### Which potion do you drink?
 
-a)
+[a) Love Potion](./option-a.md)
 
 b)
 
