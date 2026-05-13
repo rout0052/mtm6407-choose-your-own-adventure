@@ -10,6 +10,6 @@ a)
 
 b)
 
-c) 
+c) [Choose the gold bottle](./option-c.md)
 
 d)
