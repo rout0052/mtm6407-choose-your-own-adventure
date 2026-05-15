@@ -12,4 +12,4 @@
 
 c) [Choose the gold bottle](./option-c.md)
 
-d)
+d) [Funky Potion](/option-d.md)
