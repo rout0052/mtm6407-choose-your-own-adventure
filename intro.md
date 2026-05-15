@@ -6,9 +6,9 @@
 
 ### Which potion do you drink?
 
-[a) Love Potion](./option-a.md)
+a) Love Potion](./option-a.md)
 
-[b) The shimmering blue liquid in a tiny glass vial.](./option-b.md)
+b) The shimmering blue liquid in a tiny glass vial.](./option-b.md)
 
 c) [Choose the gold bottle](./option-c.md)
 

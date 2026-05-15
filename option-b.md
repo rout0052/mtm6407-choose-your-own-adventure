@@ -8,4 +8,4 @@
 
 *Spotting the crack a little ways away, you brace yourself as you prepare to plunge in, terrified by the plural used for "nests"*
 
-###### Not satisified with your result? [*Go back and make a different choice*](./intro.md)
+###### Not satisified with your result? [Go back and make a different choice](./intro.md)
