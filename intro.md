@@ -13,3 +13,7 @@
 c) [Choose the gold bottle](./option-c.md)
 
 d) [Funky Potion](/option-d.md)
+
+
+
+f) [A vibrant red liquid in a scuffed up bottle.](./option-f.md)
