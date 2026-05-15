@@ -1,4 +1,4 @@
-## You Selected: Option A)
+## You Selected: Option: A)
 
 *You drink the pink liquid vial, and suddenly your chest feels impossibly warm, your heartbeat soft and fluttering.*
 

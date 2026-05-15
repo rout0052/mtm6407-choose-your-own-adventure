@@ -1,4 +1,4 @@
-## You Selected: Option B)
+## You Selected: Option: B)
 
 *As you drink the blue liquid vial, the world around you begins to rapidly grow, until the table you were standing before is the size of a skyscraper.*
 

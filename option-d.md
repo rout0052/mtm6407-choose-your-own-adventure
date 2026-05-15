@@ -1,4 +1,4 @@
-## You Selected Option D)
+## You Selected Option: D)
 
 *You drank the funky potion and start disco dancing like prime Michael Jackson!*
 
