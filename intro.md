@@ -6,9 +6,9 @@
 
 ### Which potion do you drink?
 
-[a) The amethyst coloured drink with a faint glow.](./option-a.md)
+a) [The amethyst coloured drink with a faint glow.](./option-a.md)
 
-[b) The shimmering blue liquid in a tiny glass vial.](./option-b.md)
+b) [The shimmering blue liquid in a tiny glass vial.](./option-b.md)
 
 c) [The bubbling gold potion with a slight sweet smell.](./option-c.md)
 
