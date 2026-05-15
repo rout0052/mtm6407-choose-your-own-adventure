@@ -10,6 +10,6 @@
 
 [b) The shimmering blue liquid in a tiny glass vial.](./option-b.md)
 
-c) 
+c) [Choose the gold bottle](./option-c.md)
 
 d)
