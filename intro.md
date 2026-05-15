@@ -13,3 +13,5 @@
 c) [Choose the gold bottle](./option-c.md)
 
 d) [Funky Potion](/option-d.md)
+
+e) [A green iridescent drink in a bottle with two handles](./option-e.md)
