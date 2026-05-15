@@ -6,10 +6,10 @@
 
 ### Which potion do you drink?
 
-[a) Love Potion](./option-a.md)
+[a) The amethyst coloured drink with a faint glow.](./option-a.md)
 
 [b) The shimmering blue liquid in a tiny glass vial.](./option-b.md)
 
-c) [Choose the gold bottle](./option-c.md)
+c) [The bubbling gold potion with a slight sweet smell.](./option-c.md)
 
-d) [Funky Potion](/option-d.md)
+d) [The vial filled with liquid shifting into different colours.](/option-d.md)
