@@ -1,4 +1,4 @@
-## You Selected: Option B)
+## You Selected: Option: B)
 
 *As you drink the blue liquid vial, the world around you begins to rapidly grow, until the table you were standing before is the size of a skyscraper.*
 
@@ -8,4 +8,4 @@
 
 *Spotting the crack a little ways away, you brace yourself as you prepare to plunge in, terrified by the plural used for "nests"*
 
-###### Not satisified with your result? [*Go back and make a different choice*](./intro.md)
+###### Not satisified with your result? [Go back and make a different choice](./intro.md)
