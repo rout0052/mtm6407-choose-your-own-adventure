@@ -13,3 +13,5 @@ b) [The shimmering blue liquid in a tiny glass vial.](./option-b.md)
 c) [The bubbling gold potion with a slight sweet smell.](./option-c.md)
 
 d) [The vial filled with liquid shifting into different colours.](/option-d.md)
+
+e) [A green iridescent drink in a bottle with two handles](./option-e.md)
