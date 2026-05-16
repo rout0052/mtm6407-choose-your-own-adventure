@@ -15,3 +15,5 @@ c) [The bubbling gold potion with a slight sweet smell.](./option-c.md)
 d) [The vial filled with liquid shifting into different colours.](/option-d.md)
 
 e) [A green iridescent drink in a bottle with two handles](./option-e.md)
+
+f) [A vibrant red liquid in a scuffed up bottle.](./option-f.md)
